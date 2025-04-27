@@ -20,14 +20,14 @@ style.css: Arquivo CSS que contém os estilos, incluindo layout, cores, fontes e
 
 assets/: Pasta onde estão armazenadas as imagens utilizadas na página.
 
-## Funcionalidades
+# Funcionalidades
 Layout Responsivo: A página se adapta a diferentes tamanhos de tela, garantindo boa visualização em dispositivos móveis e desktop.
 
 Estilo Consistente: A tipografia e cores seguem o estilo presente no projeto que está no Figma da Rocketseat.
 
 Seções Informativas: Apresentação detalhada de cada um dos 3 principais destinos turísticos em Busan, com descrição e imagens.
 
-##Detalhes do Projeto
+# Detalhes do Projeto
 Seções:
 Cabeçalho (Head)
 
@@ -45,7 +45,7 @@ Seção "Pré-Footer": Texto com informações extras sobre a cidade e o destino
 
 Rodapé (Footer)
 
-##Estilização:
+# Estilização:
 Utilização de padding, margin e border para garantir espaçamento e alinhamento adequado entre os elementos.
 
 Definição de cores específicas para os títulos e fundo da página.
