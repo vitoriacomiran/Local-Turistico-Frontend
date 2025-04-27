@@ -1,4 +1,4 @@
-#Projeto: Local Turístico - Conheça Busan
+# Projeto: Local Turístico - Conheça Busan
 Este é um projeto de uma página web sobre o destino turístico Busan, utilizando HTML e CSS. O objetivo foi criar uma página responsiva, apresentando informações sobre a cidade, seus pontos turísticos e atrações históricas.
 
 #Tecnologias Utilizadas
@@ -10,7 +10,7 @@ Fontes: Utilização da fonte "Open Sans" para a tipografia.
 
 Imagens: Recursos visuais para ilustrar as atrações turísticas de Busan.
 
-##Objetivo
+# Objetivo
 O objetivo desse projeto foi criar uma página web informativa sobre a cidade de Busan, destacando suas atrações turísticas e oferecendo uma experiência de navegação simples e responsiva. A página inclui seções como "Sua Próxima Viagem", "Descubra 3 destinos imperdíveis" e um "pré-footer" com informações adicionais sobre a cidade.
 
 # Estrutura do Projeto
